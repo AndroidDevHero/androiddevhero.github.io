@@ -1,10 +1,10 @@
 # Mandatory settings
 
-name: Chalk
+name: AndroidDevHero
 paginate: 25
 url: # add your site url (format: https://example.com)
 
-blog_theme: light # Or use dark
+blog_theme: dark # Or use dark
 
 # Optional settings
 
